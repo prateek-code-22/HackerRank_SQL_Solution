@@ -6,6 +6,7 @@ The Aim of this repository is to provide help and hint when you stuck at any que
 
 # Resources to learn
 1. [W3Schools](https://www.w3schools.com/sql/default.asp)
-2. Course: [Oracle SQL Explorer](https://learn.oracle.com/ols/learning-path/oracle-sql-explorer/38560/79918)
-
+2. [Javapoint](https://www.javatpoint.com/sql-tutorial)
+3. [Oracle SQL Explorer Course](https://learn.oracle.com/ols/learning-path/oracle-sql-explorer/38560/79918)
+4. [Kaggle SQL Course](https://www.kaggle.com/learn/intro-to-sql)
 ### Don't forget to :star: the repository .Thanks :smiley:
