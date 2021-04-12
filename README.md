@@ -9,4 +9,4 @@ The Aim of this repository is to provide help and hint when you stuck at any que
 2. [Javapoint](https://www.javatpoint.com/sql-tutorial)
 3. [Oracle SQL Explorer Course](https://learn.oracle.com/ols/learning-path/oracle-sql-explorer/38560/79918)
 4. [Kaggle SQL Course](https://www.kaggle.com/learn/intro-to-sql)
-### Don't forget to :star: the repository .Thanks :smiley:
+### If you find this repository helpful then add :star: to it .Thanks :smiley:
